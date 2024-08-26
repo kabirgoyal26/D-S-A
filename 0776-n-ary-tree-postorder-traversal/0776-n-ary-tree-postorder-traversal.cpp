@@ -20,6 +20,10 @@ public:
 
 class Solution {
 public:
+/* 
+recursive app
+class Solution {
+public:
     void postorder(Node* root,vector<int > &ans)
     {
         if(root == NULL)
@@ -42,5 +46,41 @@ public:
         postorder(root,ans);
         return ans ;
         
+    }
+};
+
+  */  
+    
+
+    vector<int> postorder(Node* root) {
+        vector<int> ans;
+        if (root == NULL) {
+            return ans; // Return empty vector if root is NULL
+        }
+
+        stack<Node*> sk;
+        stack<Node*> outputStack;
+
+        sk.push(root);
+
+        while (!sk.empty()) {
+            Node* node = sk.top();
+            sk.pop();
+            outputStack.push(node);
+
+            // Push children into stack
+            for (auto child : node->children) {
+                sk.push(child);
+            }
+        }
+
+        // Now pop from outputStack to get postorder result
+        while (!outputStack.empty()) {
+            Node* node = outputStack.top();
+            outputStack.pop();
+            ans.push_back(node->val);
+        }
+
+        return ans;
     }
 };
