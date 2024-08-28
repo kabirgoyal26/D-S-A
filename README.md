@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
+| [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,4 +76,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
