@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/kabirgoyal26/dsa/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/kabirgoyal26/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kabirgoyal26/dsa/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kabirgoyal26/dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
