@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kabirgoyal26/dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
