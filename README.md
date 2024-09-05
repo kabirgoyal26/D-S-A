@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kabirgoyal26/dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/kabirgoyal26/dsa/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2032-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kabirgoyal26/dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
