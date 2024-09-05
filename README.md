@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kabirgoyal26/dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kabirgoyal26/dsa/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2803-modify-graph-edge-weights](https://github.com/kabirgoyal26/dsa/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
