@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/kabirgoyal26/dsa/tree/master/0906-walking-robot-simulation) |
 | [1806-count-of-matches-in-tournament](https://github.com/kabirgoyal26/dsa/tree/master/1806-count-of-matches-in-tournament) |
