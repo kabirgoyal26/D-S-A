@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/kabirgoyal26/dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kabirgoyal26/dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kabirgoyal26/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kabirgoyal26/dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kabirgoyal26/dsa/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kabirgoyal26/dsa/tree/master/2411-spiral-matrix-iv) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/kabirgoyal26/dsa/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kabirgoyal26/dsa/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Simulation
 |  |
 | ------- |
