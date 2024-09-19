@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/kabirgoyal26/dsa/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/kabirgoyal26/dsa/tree/master/1806-count-of-matches-in-tournament) |
@@ -239,4 +241,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kabirgoyal26/dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
