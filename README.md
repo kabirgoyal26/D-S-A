@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/kabirgoyal26/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0214-shortest-palindrome) |
