@@ -15,7 +15,7 @@ public:
 
         int ans =0;
 
-        for (int i=0;i+1<n;i++)
+        for (int i=0;i<n;i++)
         {
             if (mpp[s[i]]>=mpp[s[i+1]])
             {
@@ -29,6 +29,6 @@ public:
 
         }
         // last element bach raha ha 
-        return ans + mpp[s.back()];
+        return ans ;
     }
 };
