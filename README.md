@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kabirgoyal26/dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/kabirgoyal26/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kabirgoyal26/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kabirgoyal26/dsa/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
