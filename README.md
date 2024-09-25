@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kabirgoyal26/dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kabirgoyal26/dsa/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/kabirgoyal26/dsa/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kabirgoyal26/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/kabirgoyal26/dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/kabirgoyal26/dsa/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/kabirgoyal26/dsa/tree/master/2411-spiral-matrix-iv) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kabirgoyal26/dsa/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kabirgoyal26/dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/kabirgoyal26/dsa/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/2755-extra-characters-in-a-string) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/kabirgoyal26/dsa/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kabirgoyal26/dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kabirgoyal26/dsa/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/kabirgoyal26/dsa/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kabirgoyal26/dsa/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/kabirgoyal26/dsa/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kabirgoyal26/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
