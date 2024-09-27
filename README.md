@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/kabirgoyal26/dsa/tree/master/0906-walking-robot-simulation) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kabirgoyal26/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kabirgoyal26/dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kabirgoyal26/dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/kabirgoyal26/dsa/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/kabirgoyal26/dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
@@ -309,12 +312,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
