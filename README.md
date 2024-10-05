@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kabirgoyal26/dsa/tree/master/0432-all-oone-data-structure) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/kabirgoyal26/dsa/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kabirgoyal26/dsa/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/kabirgoyal26/dsa/tree/master/0966-binary-subarrays-with-sum) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kabirgoyal26/dsa/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kabirgoyal26/dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/kabirgoyal26/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/kabirgoyal26/dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
