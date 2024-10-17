@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/kabirgoyal26/dsa/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/kabirgoyal26/dsa/tree/master/1806-count-of-matches-in-tournament) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/kabirgoyal26/dsa/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/kabirgoyal26/dsa/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/kabirgoyal26/dsa/tree/master/2032-largest-odd-number-in-string) |
