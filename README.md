@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/kabirgoyal26/dsa/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
+| [1755-defuse-the-bomb](https://github.com/kabirgoyal26/dsa/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/kabirgoyal26/dsa/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/kabirgoyal26/dsa/tree/master/1694-make-sum-divisible-by-p) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/kabirgoyal26/dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1755-defuse-the-bomb](https://github.com/kabirgoyal26/dsa/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kabirgoyal26/dsa/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kabirgoyal26/dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/kabirgoyal26/dsa/tree/master/1923-sentence-similarity-iii) |
