@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kabirgoyal26/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kabirgoyal26/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kabirgoyal26/dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kabirgoyal26/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kabirgoyal26/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/kabirgoyal26/dsa/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kabirgoyal26/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kabirgoyal26/dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/kabirgoyal26/dsa/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
