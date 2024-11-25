@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/kabirgoyal26/dsa/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kabirgoyal26/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/kabirgoyal26/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/kabirgoyal26/dsa/tree/master/0921-spiral-matrix-iii) |
