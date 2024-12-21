@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kabirgoyal26/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/kabirgoyal26/dsa/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kabirgoyal26/dsa/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kabirgoyal26/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/kabirgoyal26/dsa/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Array
 |  |
 | ------- |
