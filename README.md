@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/kabirgoyal26/dsa/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/kabirgoyal26/dsa/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kabirgoyal26/dsa/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kabirgoyal26/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kabirgoyal26/dsa/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
