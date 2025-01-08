@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/kabirgoyal26/dsa/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kabirgoyal26/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0432-all-oone-data-structure](https://github.com/kabirgoyal26/dsa/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
