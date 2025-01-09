@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/kabirgoyal26/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kabirgoyal26/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kabirgoyal26/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kabirgoyal26/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/kabirgoyal26/dsa/tree/master/0432-all-oone-data-structure) |
