@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kabirgoyal26/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kabirgoyal26/dsa/tree/master/0503-next-greater-element-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kabirgoyal26/dsa/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kabirgoyal26/dsa/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/kabirgoyal26/dsa/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
