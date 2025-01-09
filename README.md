@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/kabirgoyal26/dsa/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/kabirgoyal26/dsa/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/kabirgoyal26/dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kabirgoyal26/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kabirgoyal26/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kabirgoyal26/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/kabirgoyal26/dsa/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
