@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/kabirgoyal26/dsa/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/kabirgoyal26/dsa/tree/master/1923-sentence-similarity-iii) |
