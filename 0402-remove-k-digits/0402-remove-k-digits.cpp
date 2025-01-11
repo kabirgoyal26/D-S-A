@@ -17,7 +17,7 @@ public:
 
         }
 
-        while (k>0 && !st.empty())
+        while (k>0 )
         {
             st.pop();
             k--;
