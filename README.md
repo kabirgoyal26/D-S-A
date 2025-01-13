@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/kabirgoyal26/dsa/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/kabirgoyal26/dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kabirgoyal26/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/kabirgoyal26/dsa/tree/master/1002-maximum-width-ramp) |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/kabirgoyal26/dsa/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kabirgoyal26/dsa/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/kabirgoyal26/dsa/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/kabirgoyal26/dsa/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kabirgoyal26/dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/kabirgoyal26/dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kabirgoyal26/dsa/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/kabirgoyal26/dsa/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/kabirgoyal26/dsa/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/kabirgoyal26/dsa/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -679,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/kabirgoyal26/dsa/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
