@@ -11,28 +11,28 @@
  */
 class Solution {
 public:
-// using recurssion and stack s bhi ho jayega 
-    void postorder(TreeNode* root, vector<int>&ans)
+
+   void postorderTraversal1(TreeNode* root,vector<int>&ans)
+   {
+    if (root==NULL)
     {
-        if(root==NULL)
-        {
-            return ;
-        }
-        // for preorder 
-        //ans.push_back(root->val);
-        postorder( root->left, ans);
-        //for inorder 
-        //ans.push_back(root->val);
-        postorder( root->right, ans);
-        ans.push_back(root->val);
+        return ;
     }
 
+    postorderTraversal1(root->left,ans);
+    postorderTraversal1(root->right,ans);
+    ans.push_back(root->val);
 
+    
+
+
+   }
+ 
+    
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int>ans;
-        postorder(root,ans);
+
+        vector<int>ans ;
+        postorderTraversal1(root,ans);
         return ans ;
-        
-        
     }
 };
