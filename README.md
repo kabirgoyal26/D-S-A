@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kabirgoyal26/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/1484-linked-list-in-binary-tree) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/kabirgoyal26/dsa/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/kabirgoyal26/dsa/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kabirgoyal26/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/kabirgoyal26/dsa/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
@@ -612,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kabirgoyal26/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kabirgoyal26/dsa/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Number Theory
