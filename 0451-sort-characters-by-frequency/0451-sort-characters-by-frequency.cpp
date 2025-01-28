@@ -2,7 +2,7 @@ class Solution {
 public:
     string frequencySort(string s) {
 
-        vector<pair<char,int>>k(256);
+        vector<pair<char,int>>k(123);
 
         for (char & ch : s)
         {
@@ -19,7 +19,7 @@ public:
 
         string ans="";
 
-        for (int i=0;i<256;i++)
+        for (int i=0;i<123;i++)
         {
             if (k[i].second > 0)
             {
