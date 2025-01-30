@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/kabirgoyal26/dsa/tree/master/1547-destination-city) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kabirgoyal26/dsa/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kabirgoyal26/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kabirgoyal26/dsa/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kabirgoyal26/dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kabirgoyal26/dsa/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/kabirgoyal26/dsa/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/kabirgoyal26/dsa/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/kabirgoyal26/dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/kabirgoyal26/dsa/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/kabirgoyal26/dsa/tree/master/2227-sum-of-subarray-ranges) |
