@@ -1,34 +1,23 @@
 class Solution {
-public:
-    int romanToInt(string s) {
+ public:
+  int romanToInt(string s) {
+    int ans = 0;
+    vector<int> roman(128);
 
-        int n=s.length();
-        unordered_map<char,int>mpp;
-        mpp['I']=1;
-        mpp['V']=5;
-        mpp['X']=10;
-        mpp['L']=50;
-        mpp['C']=100;
-        mpp['D']=500;
-        mpp['M']=1000;
+    roman['I'] = 1;
+    roman['V'] = 5;
+    roman['X'] = 10;
+    roman['L'] = 50;
+    roman['C'] = 100;
+    roman['D'] = 500;
+    roman['M'] = 1000;
 
+    for (int i = 0; i + 1 < s.length(); ++i)
+      if (roman[s[i]] < roman[s[i + 1]])
+        ans -= roman[s[i]];
+      else
+        ans += roman[s[i]];
 
-        int ans =0;
-
-        for (int i=0;i<n;i++)
-        {
-            if (mpp[s[i]]>=mpp[s[i+1]])
-            {
-                ans = ans + mpp[s[i]];
-            }
-            else 
-            {
-                ans = ans - mpp[s[i]];
-            }
-
-
-        }
-        // last element bach raha ha 
-        return ans ;
-    }
+    return ans + roman[s.back()];
+  }
 };
