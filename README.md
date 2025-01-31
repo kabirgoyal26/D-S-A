@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/kabirgoyal26/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kabirgoyal26/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kabirgoyal26/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kabirgoyal26/dsa/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kabirgoyal26/dsa/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kabirgoyal26/dsa/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/kabirgoyal26/dsa/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/kabirgoyal26/dsa/tree/master/1396-count-servers-that-communicate) |
@@ -484,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/kabirgoyal26/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kabirgoyal26/dsa/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kabirgoyal26/dsa/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/kabirgoyal26/dsa/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/kabirgoyal26/dsa/tree/master/2035-count-sub-islands) |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/kabirgoyal26/dsa/tree/master/0921-spiral-matrix-iii) |
