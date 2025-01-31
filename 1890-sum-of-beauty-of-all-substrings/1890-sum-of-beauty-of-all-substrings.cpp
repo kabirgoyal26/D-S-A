@@ -4,7 +4,7 @@ public:
         int ans = 0;
         
        
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i+2< s.size(); i++) {
             vector<int> store(26, 0);  
             
            
