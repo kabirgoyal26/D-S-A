@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kabirgoyal26/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0020-valid-parentheses) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kabirgoyal26/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
