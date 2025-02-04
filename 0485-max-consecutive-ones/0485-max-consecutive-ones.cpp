@@ -6,7 +6,7 @@ public:
         int r=0;
         int ans=0;
 
-        while(r<nums.size())
+        while(r<nums.size() && l<nums.size())
         {
             if (nums[r]==0 )
             {
