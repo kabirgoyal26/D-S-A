@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kabirgoyal26/dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kabirgoyal26/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kabirgoyal26/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kabirgoyal26/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kabirgoyal26/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/kabirgoyal26/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
