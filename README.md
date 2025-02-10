@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/kabirgoyal26/dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/kabirgoyal26/dsa/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/kabirgoyal26/dsa/tree/master/0485-max-consecutive-ones) |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/kabirgoyal26/dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/kabirgoyal26/dsa/tree/master/0670-maximum-swap) |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/kabirgoyal26/dsa/tree/master/1923-sentence-similarity-iii) |
