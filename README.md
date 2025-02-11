@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/kabirgoyal26/dsa/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/kabirgoyal26/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/kabirgoyal26/dsa/tree/master/1923-sentence-similarity-iii) |
