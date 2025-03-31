@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/kabirgoyal26/dsa/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kabirgoyal26/dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kabirgoyal26/dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/kabirgoyal26/dsa/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kabirgoyal26/dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kabirgoyal26/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kabirgoyal26/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kabirgoyal26/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/kabirgoyal26/dsa/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/kabirgoyal26/dsa/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kabirgoyal26/dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
@@ -657,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kabirgoyal26/dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kabirgoyal26/dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/kabirgoyal26/dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kabirgoyal26/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kabirgoyal26/dsa/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
@@ -755,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kabirgoyal26/dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/kabirgoyal26/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/kabirgoyal26/dsa/tree/master/2716-prime-subtraction-operation) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/kabirgoyal26/dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
@@ -800,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/kabirgoyal26/dsa/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/kabirgoyal26/dsa/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
 |  |
 | ------- |
@@ -924,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/kabirgoyal26/dsa/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kabirgoyal26/dsa/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/kabirgoyal26/dsa/tree/master/2227-sum-of-subarray-ranges) |
+| [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
 | ------- |
