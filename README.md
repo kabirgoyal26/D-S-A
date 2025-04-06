@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kabirgoyal26/dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kabirgoyal26/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kabirgoyal26/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kabirgoyal26/dsa/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kabirgoyal26/dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
