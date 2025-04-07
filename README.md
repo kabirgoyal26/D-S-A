@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/kabirgoyal26/dsa/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/kabirgoyal26/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/kabirgoyal26/dsa/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kabirgoyal26/dsa/tree/master/0496-next-greater-element-i) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/kabirgoyal26/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/kabirgoyal26/dsa/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/kabirgoyal26/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kabirgoyal26/dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
