@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/kabirgoyal26/dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/kabirgoyal26/dsa/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kabirgoyal26/dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kabirgoyal26/dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kabirgoyal26/dsa/tree/master/0735-asteroid-collision) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/kabirgoyal26/dsa/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/kabirgoyal26/dsa/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/kabirgoyal26/dsa/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/kabirgoyal26/dsa/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/kabirgoyal26/dsa/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/kabirgoyal26/dsa/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/kabirgoyal26/dsa/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/kabirgoyal26/dsa/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kabirgoyal26/dsa/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kabirgoyal26/dsa/tree/master/1477-product-of-the-last-k-numbers) |
@@ -775,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kabirgoyal26/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/kabirgoyal26/dsa/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/kabirgoyal26/dsa/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/kabirgoyal26/dsa/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/kabirgoyal26/dsa/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/kabirgoyal26/dsa/tree/master/1502-construct-k-palindrome-strings) |
