@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/kabirgoyal26/dsa/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kabirgoyal26/dsa/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/kabirgoyal26/dsa/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kabirgoyal26/dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/kabirgoyal26/dsa/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/kabirgoyal26/dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kabirgoyal26/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -790,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/kabirgoyal26/dsa/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/kabirgoyal26/dsa/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kabirgoyal26/dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kabirgoyal26/dsa/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/kabirgoyal26/dsa/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/kabirgoyal26/dsa/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kabirgoyal26/dsa/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
