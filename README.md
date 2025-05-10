@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/kabirgoyal26/dsa/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/kabirgoyal26/dsa/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kabirgoyal26/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kabirgoyal26/dsa/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kabirgoyal26/dsa/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kabirgoyal26/dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/kabirgoyal26/dsa/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/kabirgoyal26/dsa/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/kabirgoyal26/dsa/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/kabirgoyal26/dsa/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/kabirgoyal26/dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
