@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/kabirgoyal26/dsa/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/kabirgoyal26/dsa/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/kabirgoyal26/dsa/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/kabirgoyal26/dsa/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/kabirgoyal26/dsa/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/kabirgoyal26/dsa/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/kabirgoyal26/dsa/tree/master/1364-tuple-with-same-product) |
