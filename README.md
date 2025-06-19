@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/kabirgoyal26/dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kabirgoyal26/dsa/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kabirgoyal26/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kabirgoyal26/dsa/tree/master/0055-jump-game) |
@@ -824,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kabirgoyal26/dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kabirgoyal26/dsa/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/kabirgoyal26/dsa/tree/master/0402-remove-k-digits) |
@@ -909,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kabirgoyal26/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kabirgoyal26/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kabirgoyal26/dsa/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kabirgoyal26/dsa/tree/master/0124-binary-tree-maximum-path-sum) |
