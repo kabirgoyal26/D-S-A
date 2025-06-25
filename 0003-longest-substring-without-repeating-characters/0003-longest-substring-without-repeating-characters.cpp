@@ -20,12 +20,6 @@ public:
             mpp[s[r]]=r;
             r++;
         }
-
-        
-
-
-       
-
         
         return ans ;
     }
