@@ -697,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kabirgoyal26/dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/kabirgoyal26/dsa/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kabirgoyal26/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/kabirgoyal26/dsa/tree/master/0086-partition-list) |
@@ -876,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/kabirgoyal26/dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kabirgoyal26/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/kabirgoyal26/dsa/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kabirgoyal26/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/kabirgoyal26/dsa/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
