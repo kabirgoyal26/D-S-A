@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kabirgoyal26/dsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/kabirgoyal26/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kabirgoyal26/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kabirgoyal26/dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kabirgoyal26/dsa/tree/master/0205-isomorphic-strings) |
@@ -881,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kabirgoyal26/dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/kabirgoyal26/dsa/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/kabirgoyal26/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kabirgoyal26/dsa/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/kabirgoyal26/dsa/tree/master/0432-all-oone-data-structure) |
