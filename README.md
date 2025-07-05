@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/kabirgoyal26/dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kabirgoyal26/dsa/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/kabirgoyal26/dsa/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kabirgoyal26/dsa/tree/master/0055-jump-game) |
@@ -1079,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kabirgoyal26/dsa/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/kabirgoyal26/dsa/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kabirgoyal26/dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kabirgoyal26/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
