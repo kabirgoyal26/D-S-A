@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kabirgoyal26/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kabirgoyal26/dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kabirgoyal26/dsa/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/kabirgoyal26/dsa/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kabirgoyal26/dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kabirgoyal26/dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kabirgoyal26/dsa/tree/master/0053-maximum-subarray) |
@@ -1077,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kabirgoyal26/dsa/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/kabirgoyal26/dsa/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kabirgoyal26/dsa/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/kabirgoyal26/dsa/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
