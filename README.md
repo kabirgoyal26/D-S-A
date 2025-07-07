@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/kabirgoyal26/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kabirgoyal26/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kabirgoyal26/dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kabirgoyal26/dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kabirgoyal26/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kabirgoyal26/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kabirgoyal26/dsa/tree/master/0268-missing-number) |
@@ -599,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/kabirgoyal26/dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kabirgoyal26/dsa/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kabirgoyal26/dsa/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kabirgoyal26/dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/kabirgoyal26/dsa/tree/master/0368-largest-divisible-subset) |
@@ -718,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/kabirgoyal26/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kabirgoyal26/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kabirgoyal26/dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kabirgoyal26/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
