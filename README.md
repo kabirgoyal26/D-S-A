@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kabirgoyal26/dsa/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kabirgoyal26/dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kabirgoyal26/dsa/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/kabirgoyal26/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kabirgoyal26/dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kabirgoyal26/dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kabirgoyal26/dsa/tree/master/0290-word-pattern) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kabirgoyal26/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kabirgoyal26/dsa/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kabirgoyal26/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/kabirgoyal26/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kabirgoyal26/dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kabirgoyal26/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kabirgoyal26/dsa/tree/master/0567-permutation-in-string) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kabirgoyal26/dsa/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kabirgoyal26/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/kabirgoyal26/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kabirgoyal26/dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kabirgoyal26/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0283-move-zeroes) |
