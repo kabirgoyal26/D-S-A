@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/kabirgoyal26/dsa/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kabirgoyal26/dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/kabirgoyal26/dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kabirgoyal26/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kabirgoyal26/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -607,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/kabirgoyal26/dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kabirgoyal26/dsa/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kabirgoyal26/dsa/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/kabirgoyal26/dsa/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/kabirgoyal26/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kabirgoyal26/dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kabirgoyal26/dsa/tree/master/0202-happy-number) |
