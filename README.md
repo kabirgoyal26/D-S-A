@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/kabirgoyal26/dsa/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/kabirgoyal26/dsa/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kabirgoyal26/dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kabirgoyal26/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kabirgoyal26/dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kabirgoyal26/dsa/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kabirgoyal26/dsa/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/kabirgoyal26/dsa/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/kabirgoyal26/dsa/tree/master/0787-sliding-puzzle) |
@@ -842,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kabirgoyal26/dsa/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/kabirgoyal26/dsa/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kabirgoyal26/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kabirgoyal26/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kabirgoyal26/dsa/tree/master/0209-minimum-size-subarray-sum) |
