@@ -6,8 +6,8 @@ public:
 
         for (char & ch : s)
         {
-            int fq = k[ch].second;
-            k[ch]={ch,fq+1};
+           
+            k[ch]={ch,k[ch].second+1};
         }
 
         auto comp=[&](pair<char,int>&p1,pair<char,int>&p2)
